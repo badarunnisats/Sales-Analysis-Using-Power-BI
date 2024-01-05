@@ -1,6 +1,6 @@
 # Sales Analysis Using Power BI
 
-![632b2eb47b58103aeac94c5f_62263643fcd1b61f8b78ab7b_sales-volume-p-800](https://github.com/badarunnisats/Sales-Analysis-Using-Power-BI/assets/109198401/50b88fa7-77ff-4de6-b8fc-b43fd4cfbab3)
+![6246262](https://github.com/badarunnisats/Sales-Analysis-Using-Power-BI/assets/109198401/f4f2c52d-c4f8-41ba-94f7-b8cafb017eb2)
 
 
 This GitHub repository houses a collection of Power BI visualizations designed to analyze sales data for Superstore. The visualizations provide insights into sales patterns at various geographic levels and delve into shipping cost trends.The Sample Superstore Sales dataset provides sales data for a fictional retail company, including information on products, orders and customers.
