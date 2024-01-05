@@ -11,7 +11,7 @@ In today's data-driven society, having an intelligent strategy is essential for 
 
 # Objective
 
-This project aims to use business intelligence tool to analyse the performance of a global superstore. The outcome of this analysis will assist stakeholders in making educated decisions about how to attain their goals.
+This project aims to use business intelligence tool to analyse the performance of a sample superstore. The outcome of this analysis will assist stakeholders in making educated decisions about how to attain their goals.
 
 # Data Source
 
