@@ -29,4 +29,4 @@ This dataset includes the following variables:
 
   # Dashboard
 
-  
+  ![Screenshot 2024-01-05 170253](https://github.com/badarunnisats/Sales-Analysis-Using-Power-BI/assets/109198401/064cfb02-a5b6-4d7c-b435-e86148e412e9)
